@@ -1,0 +1,37 @@
+{
+    "bestMatches": [
+        {
+            "1. symbol": "NIFTYBEES.BSE",
+            "2. name": "Nippon India ETF Nifty 50 BeES",
+            "3. type": "ETF",
+            "4. region": "India/Bombay",
+            "5. marketOpen": "09:15",
+            "6. marketClose": "15:30",
+            "7. timezone": "UTC+5.5",
+            "8. currency": "INR",
+            "9. matchScore": "0.5882"
+        },
+        {
+            "1. symbol": "NIFTYQLITY.BSE",
+            "2. name": "Aditya Birla Sun Life Nifty 200 Quality 30 ETF",
+            "3. type": "ETF",
+            "4. region": "India/Bombay",
+            "5. marketOpen": "09:15",
+            "6. marketClose": "15:30",
+            "7. timezone": "UTC+5.5",
+            "8. currency": "INR",
+            "9. matchScore": "0.5556"
+        },
+        {
+            "1. symbol": "INDF",
+            "2. name": "NIFTY INDIA FINANCIALS ETF ",
+            "3. type": "ETF",
+            "4. region": "United States",
+            "5. marketOpen": "09:30",
+            "6. marketClose": "16:00",
+            "7. timezone": "UTC-04",
+            "8. currency": "USD",
+            "9. matchScore": "0.4444"
+        }
+    ]
+}
